@@ -1,6 +1,6 @@
 {
   "name": "hzw-init",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "description": "Init react project helper tools.",
   "main": "lib/init_command.js",
   "scripts": {
@@ -55,7 +55,10 @@
   "bugs": "https://github.com/hanangjie/hzw-init/issues",
   "keywords": [
     "hzw",
-    "hzw-init"
+    "hzw-init",
+    "react-cli",
+    "react-boilerplate",
+    "web-cli"
   ],
   "ci": {
     "version": "4, 6, 8"
