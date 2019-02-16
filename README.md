@@ -28,4 +28,4 @@ Please let us know how can we help. Do check out [issues](https://github.com/han
 
 ## author
 
-[@hanangjie](hanangjie@gmail.com)
+[@hanangjie](https://npm.taobao.org/~hanangjie)
