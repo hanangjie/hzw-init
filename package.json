@@ -1,6 +1,6 @@
 {
   "name": "hzw-init",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Init react project helper tools.",
   "main": "lib/init_command.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "compressing": "^1.2.3",
     "glob": "^7.1.2",
     "group-object": "^0.1.1",
-    "inquirer": "^3.0.6",
+    "inquirer": "^6.4.1",
     "is-text-path": "^1.0.1",
     "is-type-of": "^1.2.0",
     "mem-fs": "^1.1.3",
